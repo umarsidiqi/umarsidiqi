@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/umarsidiqi/umarsidiqi/main/profile.jpg" width="150" style="border-radius: 50%;" alt="Muhammad Umar Siddiqui"/>
 
-# Hi, I'm Muhammad Umar Siddiqui 👋
+# Hi, I'm Umar Siddiqui 👋
 
 **Master's student in International Information Systems @ FAU Erlangen-Nürnberg**
 
